@@ -1,16 +1,14 @@
 # flutter_application_drawer_challenge
 
-A new Flutter project.
+## Challenge video
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/25536713/149532859-e4adb2d5-37cd-4bf6-a779-7e8aa97fd438.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Result
+
+https://user-images.githubusercontent.com/25536713/149532841-0ea5e41d-39ca-47b6-b900-2e5ce44f6408.mov
+
